@@ -1,0 +1,6 @@
+# Compiled binaries and object files
+*.out
+*.o
+*.exe
+program
+hello
