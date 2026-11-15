@@ -14,7 +14,7 @@ int main() {
   double pi = 3.14159;
 
   // Printing variable values
-  printf("--- Variable values ---");
+  printf("--- Variable values ---\n");
   printf("Integer (raj): %d\n", raj);
   printf("Float (raj123): %.2f\n", raj123);
   printf("Char (_raj32): %c\n", _raj32);
